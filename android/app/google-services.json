@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270706748969",
+    "project_id": "rightfertilizepakistan",
+    "storage_bucket": "rightfertilizepakistan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270706748969:android:59deb235ac6e503cbbf638",
+        "android_client_info": {
+          "package_name": "com.example.right_fertilize_pakistan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWpYkQhgUD5iAo0iKqfkichDIauIKzAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
